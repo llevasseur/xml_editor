@@ -1,0 +1,29 @@
+{
+  "name": "xml_editor",
+  "version": "0.0.1",
+  "description": "\u0016NodeJS module to edit an XML file based on an input JSON file. First step to a ML algorithm to update a DOCX file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/llevasseur/xml_editor.git"
+  },
+  "keywords": [
+    "xml",
+    "xml_editor",
+    "xml_js",
+    "xml_node",
+    "xml_npm",
+    "js_xml",
+    "node_xml",
+    "npm_xml"
+  ],
+  "author": "Leevon Levasseur",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/llevasseur/xml_editor/issues"
+  },
+  "homepage": "https://github.com/llevasseur/xml_editor#readme"
+}
