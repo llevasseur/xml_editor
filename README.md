@@ -1,5 +1,4 @@
 # xml_editor
-<hr style="border:0.5px solid grey">
 NodeJS module to edit an XML file based on an input JSON file. First step to a ML algorithm to update a DOCX file.
 
 ### Installation
